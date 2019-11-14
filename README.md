@@ -1,2 +1,2 @@
 # algorithms
-implementations of some algorithms using python 
+solution to algorithmic problems for a MOOC using python 
